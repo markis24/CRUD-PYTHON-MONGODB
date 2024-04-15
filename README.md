@@ -1,6 +1,6 @@
 # CRUD-PYTHON-MONGODB
 
-# Películas API
+# API de Películas
 
 Este proyecto es una API para administrar información sobre películas. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una base de datos de películas.
 
