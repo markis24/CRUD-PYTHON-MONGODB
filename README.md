@@ -9,6 +9,11 @@ Este proyecto es una API para administrar información sobre películas. Permite
 - FastAPI: Un marco web moderno y rápido para Python.
 - MongoDB: Una base de datos NoSQL utilizada para almacenar la información de las películas.
 
+## Video
+
+- [Video Peliculas ](https://drive.google.com/drive/folders/1MNw4aYyVA3TaxgGqma47Gp3qmHGDKwG8?usp=sharing) - Carpeta donde estan todos los videos de esta practica
+- 
+
 
 ## Endpoints
 
