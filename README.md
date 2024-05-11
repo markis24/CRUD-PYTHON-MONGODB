@@ -12,7 +12,7 @@ Este proyecto es una API para administrar información sobre películas. Permite
 ## Video
 
 - [Video Peliculas ](https://drive.google.com/drive/folders/1MNw4aYyVA3TaxgGqma47Gp3qmHGDKwG8?usp=sharing) - Carpeta donde estan todos los videos de esta practica
-- 
+  
 
 
 ## Endpoints
